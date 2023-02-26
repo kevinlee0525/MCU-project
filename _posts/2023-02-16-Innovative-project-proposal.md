@@ -35,33 +35,28 @@ This homework is to propose an Innovative Project and describe the key features,
   - Draw a System Block Diagram
 
 ---
-## 家用飛行機器人
+## 智能辦公桌
 ### 應用功能說明
-1. 居家監控：外出時可隨時查看家裡各處狀況
-2. 環境監測：溫濕度感測+瓦斯偵測+空氣品質偵測 
-3. 清潔環境：撢灰塵, 除臭
-4. 丟棄垃圾：丟棄小型垃圾袋至垃圾車或社區資源回收區
-5. 餐飲服務：遞送調味料, 可樂, 水果, 零食
+1. 桌面無線充電：將能無線充電之產品放置於特定區域便能進行無線充電。
+2. 筆電散熱：當偵測筆電核心溫度過高時，自動開啟桌面風扇進行散熱。
+3. 桌子電動升降：透過按鈕控制桌面高度，適用各個年齡層用戶。
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 移動方式:共軸雙旋翼
-2. 供電方式:電池＋自動充電
-3. 聯網方式: WiFi 或 BLE to中控電腦
+1. 桌面上下移動方式:馬達
+2. 供電方式:自動充電
+3. 桌腳移動方式:四輪
+4. 進氣風扇:微型馬達
 
 **所需相關技術：**
-1. 飛行姿態偵測與控制: ESP32 + MPU6050 + PID controller
-2. 溫濕度感測 & 氣體偵測: HTU21D + MQ2 + MQ7 + MQ135
-3. 紅外線遙控: IR-LED 
-4. 影像傳輸: ESP32-CAM模組
-5. 物品夾具：懸吊掛勾, 磁鐵吸吊
-6. 服務器: 具AI加速(GPU)
-  - 影像物件偵測辨識: CSL-YOLO
-  - 任務規劃控制: Mission Planner with Floorplan
+1. 高度控制:推拉往復式馬達 
+2. 散熱系統:微型130
+3. 無線充電:感應線圈與導磁性鐵芯
+4. 桌面高度控制器:TTP224
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/jfKfPfyJRdk" title="lofi hip hop radio - beats to relax/study to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://github.com/kevinlee0525/MCU-project/blob/1c82a22d8eef607cb39451e4956f163ba55332a7/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-02-26%20234049.png)
+<iframe width="942" height="530" src="https://www.youtube.com/embed/MWorqvu68WM" title="这才叫办公桌，你们用的只能叫木板，赶紧让老板都配一张" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## Design Methodology (設計方法)
