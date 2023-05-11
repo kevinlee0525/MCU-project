@@ -27,7 +27,7 @@ tags: [jekyll, ai]
 ---
 ## 完成圖
 ![](https://github.com/kevinlee0525/MCU-project/blob/main/images/%E7%85%A7%E7%89%87.jpg?raw=true)
-
+---
 
 ### CODE
 // Import required libraries
