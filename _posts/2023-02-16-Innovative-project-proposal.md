@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Innovative Project propasal
+title: IoT
 author: [KuangChe Lee]
 category: [Lecture]
 tags: [jekyll, ai]
