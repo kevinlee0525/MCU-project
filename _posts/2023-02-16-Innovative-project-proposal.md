@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-This homework is to propose an Innovative Project and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
+
 
 
 ---
@@ -31,7 +31,7 @@ This homework is to propose an Innovative Project and describe the key features,
 2.HTML
 ---
 ## 完成圖
-![](https://raw.githubusercontent.com/Leo7Chuang/MCU-project/main/images/IMG_1489.jpeg)
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/33333.jpg?raw=true)
 
 
 **code：**
