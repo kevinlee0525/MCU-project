@@ -26,7 +26,7 @@ tags: [jekyll, ai]
 
 ---
 ## 完成圖
-![](https://github.com/kevinlee0525/MCU-project/blob/e7373760fbaa2e5f2930f1bc873c1a1002ca4d0f/images/%E7%85%A7%E7%89%87.jpg)
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/%E7%85%A7%E7%89%87.jpg?raw=true)
 
 
 ### CODE
@@ -259,10 +259,10 @@ void loop() {
 }
 ### 系統方塊圖
 
-![](https://github.com/kevinlee0525/MCU-project/blob/89bd6cf332d357b962f8466a7daf81cb88ab121c/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20ESP.png)
+![](https://github.com/kevinlee0525/MCU-project/blob/89bd6cf332d357b962f8466a7daf81cb88ab121c/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20ESP.png?raw=true)
 
 
-<iframe width="347" height="618" src="https://www.youtube.com/embed/crP8K_KXq6c" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="347" height="618" src="https://www.youtube.com/embed/crP8K_KXq6c" title="影片" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ---
