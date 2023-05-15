@@ -21,7 +21,7 @@ This project use Bluetooth or WebUI to control ESP32 Robot Car
 2. Connection: WebUI (iPhone doesn’t support Bluetooth.)
 3. L298N (DRV8833 has some issues for using duel motor. Low current or short circuit.)
 
-**所需相關技術：**
+**所需相關技術
 1. WiFi Connection 
 2. MCU
 
@@ -30,7 +30,7 @@ This project use Bluetooth or WebUI to control ESP32 Robot Car
 ![](https://github.com/kevinlee0525/MCU-project/blob/main/images/ROBOT%20CAR.png?raw=true)
 
 ---
-## CODE:
+## CODE
 // PWM to DRV8833 dual H-bridge motor driver, PWM freq. = 1000 Hz
 // ESP32 Webserver to receive commands to control RoboCar
 
@@ -53,8 +53,8 @@ ESP32MotorControl motor;
 
 
 /* Set these to your desired credentials. */
-const char *ssid = "309_AC86U_5G";
-const char *password = "password";
+const char *ssid = "kc0525";
+const char *password = "0963680525";
 
 WebServer server(80); // Set web server port number to 80
 
