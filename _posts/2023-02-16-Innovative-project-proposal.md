@@ -21,7 +21,7 @@ tags: [jekyll, ai]
   - Draw a System Block Diagram
 
 ---
-## 	應用功能說明
+## 應用功能說明
 1. Use DHT11 as a sensor.
 2. Use ESP32 as a MCU.
 3. Use HTML to show the value.
