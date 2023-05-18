@@ -10,6 +10,7 @@ tags: [jekyll, ai]
 
 
 ---
+
 ### Homework Report
 **Contents:**<br>
 * **應用與功能說明**
@@ -21,17 +22,23 @@ tags: [jekyll, ai]
   - Draw a System Block Diagram
 
 ---
+
 ## 應用功能說明
 1. Use DHT11 as a sensor.
 2. Use ESP32 as a MCU.
 3. Use HTML to show the value.
+
 ---
+
 ## 設計考量與相關技術
 1. MCU
 2. HTML
+
 ---
+
 ## 完成圖
 ![](https://github.com/kevinlee0525/MCU-project/blob/main/images/33333.jpg?raw=true)
+
 ---
 
 ## CODE
@@ -234,6 +241,7 @@ void loop() {
 }
 
 ---
+
 ### 系統方塊圖
 
 ![](https://raw.githubusercontent.com/Leo7Chuang/MCU-project/main/images/Screenshot%202023-05-08%20at%201.17.00%20PM.png)
