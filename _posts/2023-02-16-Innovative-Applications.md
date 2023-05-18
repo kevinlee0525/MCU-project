@@ -7,6 +7,7 @@ tags: [jekyll, ai]
 
 
 ---
+
 ### Homework Report
 **Contents:**<br>
 * **應用與功能說明**
@@ -18,15 +19,20 @@ tags: [jekyll, ai]
   - Draw a System Block Diagram
 
 ---
+
 ## 	應用功能說明
 1.Use OTA to turn on the light
+
 ---
+
 ## 設計考量與相關技術
 1.MCU
 
 ---
+
 ## 完成圖
 ![](https://github.com/kevinlee0525/MCU-project/blob/main/images/%E7%85%A7%E7%89%87.jpg?raw=true)
+
 ---
 
 ### CODE
@@ -257,12 +263,15 @@ void loop() {
   ws.cleanupClients();
   digitalWrite(ledPin, ledState);
 }
----
+
+  ---
+
 ### 系統方塊圖
 
 ![](https://github.com/kevinlee0525/MCU-project/blob/89bd6cf332d357b962f8466a7daf81cb88ab121c/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20ESP.png?raw=true)
 
 ---
+
 <iframe width="347" height="618" src="https://www.youtube.com/embed/crP8K_KXq6c" title="影片" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
