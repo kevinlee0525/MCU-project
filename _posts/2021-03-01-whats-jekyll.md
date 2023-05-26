@@ -30,6 +30,16 @@ tags: [jekyll]
 
 ---
 
+---
+
+### 系統方塊圖
+
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/12345.jpg?raw=true)
+
+
+
+---
+
 ### CODE
 // MAX30102 + 128x32 OLED(I2C)
 #include <Adafruit_GFX.h>        //OLED libraries
