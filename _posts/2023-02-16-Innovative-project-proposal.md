@@ -6,7 +6,9 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
+### 系統方塊圖
 
+![](https://raw.githubusercontent.com/Leo7Chuang/MCU-project/main/images/Screenshot%202023-05-08%20at%201.17.00%20PM.png)
 
 
 ---
@@ -49,8 +51,8 @@ tags: [jekyll, ai]
 #include <WiFi.h> 
 #include <WebServer.h>
 
-const char* ssid     = "your_ssid";
-const char* password = "your_password";
+const char* ssid     = "kc0525";
+const char* password = "0963680525";
 
 WebServer server(80);
 
@@ -242,10 +244,8 @@ void loop() {
 
 ---
 
-### 系統方塊圖
-
-![](https://raw.githubusercontent.com/Leo7Chuang/MCU-project/main/images/Screenshot%202023-05-08%20at%201.17.00%20PM.png)
-
+## 完成圖
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/33333.jpg?raw=true)
 
 ---
 
