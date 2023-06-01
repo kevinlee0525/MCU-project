@@ -31,6 +31,10 @@ tags: [jekyll, ai]
 ---
 
 ### CODE
+
+``` c++
+
+
 // Import required libraries
 #include <Arduino.h>
 #include <WiFi.h>
@@ -258,6 +262,9 @@ void loop() {
   ws.cleanupClients();
   digitalWrite(ledPin, ledState);
 }
+
+``` 
+
 
   ---
 
