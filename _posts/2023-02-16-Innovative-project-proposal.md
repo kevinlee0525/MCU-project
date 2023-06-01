@@ -34,7 +34,7 @@ tags: [jekyll, ai]
 
 ### 系統方塊圖
 
-![](https://raw.githubusercontent.com/Leo7Chuang/MCU-project/main/images/Screenshot%202023-05-08%20at%201.17.00%20PM.png)
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/44.png?raw=true)
 
 
 ---
