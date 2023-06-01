@@ -30,6 +30,7 @@ tags: [jekyll]
 
 ### CODE
 
+``` c++
 
 // MAX30102 + 128x32 OLED(I2C)
 #include <Adafruit_GFX.h>        //OLED libraries
@@ -221,7 +222,7 @@ void loop() {
   }
 }
 
-
+``` 
 
   ---
 
