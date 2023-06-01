@@ -4,17 +4,6 @@ title: blood oxygen
 author: [KuangChe Lee]
 category: [Lecture]
 tags: [jekyll]
----
-
-### Homework Report
-**Contents:**<br>
-* **應用與功能說明**
-  - Specify the future home application, and Describe the key features
-  - Describe the key features which may be applied to the home space (kitchen, living room, play room, study room, bed room)
-* **設計考量與所需相關技術**
-  - List all design considerations and the required technologies
-* **系統方塊圖**
-  - Draw a System Block Diagram
 
 ---
 
