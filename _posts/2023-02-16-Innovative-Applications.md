@@ -32,7 +32,7 @@ tags: [jekyll, ai]
 
 ### 系統方塊圖
 
-![](https://github.com/kevinlee0525/MCU-project/blob/89bd6cf332d357b962f8466a7daf81cb88ab121c/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20ESP.png?raw=true)
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/55.png?raw=true)
 
 ---
 
