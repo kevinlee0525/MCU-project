@@ -30,11 +30,10 @@ tags: [jekyll]
 
 ---
 
----
 
 ### 系統方塊圖
 
-![](https://github.com/kevinlee0525/MCU-project/blob/main/images/12345.jpg?raw=true)
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/22.png?raw=true)
 
 
 
