@@ -11,27 +11,31 @@ This project use Bluetooth or WebUI to control ESP32 Robot Car
 ---
 
 ### 應用功能說明
-1. Use wireless tech to control robot.
-2. Use L298N as motor drive board.
+1. 遠端控制：利用藍芽以及WIFI實現無線控制
+2. 自動修正路徑
 
 ---
 
 ### 設計考量與相關技術
-1. ESP32’s wireless tech.
-2. Connection: WebUI (iPhone doesn’t support Bluetooth.)
-3. L298N (DRV8833 has some issues for using duel motor. Low current or short circuit.)
 
----
+1. 供電方式：充電電池
+2. 聯網方式：WiFi or BT
+3. 感測裝置：ESP32
+4. 方位元件：MPU6050
+5. 驅動裝置：DRV8833
 
-**所需相關技術
-1. WiFi Connection 
-2. MCU
 
 ---
 
 ### 系統方塊圖
 
-![](https://github.com/kevinlee0525/MCU-project/blob/main/images/ROBOT%20CAR.png?raw=true)
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/7777777.png?raw=true)
+
+---
+
+### 完成圖
+
+![](https://github.com/kevinlee0525/MCU-project/blob/main/images/8888888888.png?raw=true)
 
 ---
 
@@ -491,7 +495,7 @@ void LimitFloat(float *x, float Min, float Max) {
 
 ``` 
 
-
+<iframe width="1536" height="864" src="https://www.youtube.com/embed/b1AzkakRuUk" title="2023年6月4日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ---
